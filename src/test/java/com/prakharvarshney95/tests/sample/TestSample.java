@@ -13,7 +13,7 @@ public class TestSample {
         Assert.assertTrue(true);
     }
 
-    @Description("Sample TC 1")
+    @Description("Sample TC 2")
     @Test
     public void testSample1(){
         Assert.assertTrue(true);
