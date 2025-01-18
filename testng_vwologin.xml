@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Prakhar Varshney/IdeaProjects/ATB9xSeleniumAdvanceFramework">
         <classes>
-            <class name="com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin">
+            <class name="com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_01_NormalScript">
 
             </class>
         </classes>
