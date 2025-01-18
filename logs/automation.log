@@ -1,0 +1,4 @@
+17:37:56.287 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - Starting the Testcases Page Object Model
+17:38:18.125 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - End of the testLoginNegativeVWO !
+17:38:24.223 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+17:38:58.126 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - End and Asserting testLoginPositiveVWO
