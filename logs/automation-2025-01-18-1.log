@@ -1,0 +1,16 @@
+17:37:56.287 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - Starting the Testcases Page Object Model
+17:38:18.125 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - End of the testLoginNegativeVWO !
+17:38:24.223 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+17:38:58.126 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_06_Improved_POM_PropertyReader_DriverManager - End and Asserting testLoginPositiveVWO
+18:04:16.557 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases Page Object Model
+18:04:47.844 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End of the testLoginNegativeVWO !
+18:04:56.420 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+18:05:37.514 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+18:05:41.855 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+18:06:22.439 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+18:06:27.203 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+18:07:07.548 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+18:07:11.965 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+18:07:46.064 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+18:07:50.389 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+18:08:30.964 [main] INFO  com.prakharvarshney95.tests.vwoTestcases.TestVWOLogin_07_Improved_POM_PropertyReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
